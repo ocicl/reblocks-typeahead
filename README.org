@@ -1,0 +1,9 @@
+* reblocks-typeahead
+
+A typeahead/autocomplete widget for the Reblocks web framework.
+
+|---------+------------------------------------------------------------|
+| source  | git:https://github.com/40ants/reblocks-typeahead.git       |
+| commit  | 32c03f6                                                    |
+| systems | reblocks-typeahead                                         |
+|---------+------------------------------------------------------------|

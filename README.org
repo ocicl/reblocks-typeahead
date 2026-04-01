@@ -7,3 +7,4 @@ A typeahead/autocomplete widget for the Reblocks web framework.
 | commit  | 32c03f6                                                    |
 | systems | reblocks-typeahead                                         |
 |---------+------------------------------------------------------------|
+ 
